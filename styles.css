@@ -1,3 +1,5 @@
 html {
-  background-color: red;
+  background: url('stpeters.png') no-repeat center center fixed !important;
+  background-size: cover !important;
+  background-color: #ccc !important;
 }
