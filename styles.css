@@ -1,5 +1,7 @@
-html {
-  background: url('stpeters.png') no-repeat center center fixed !important;
-  background-size: cover !important;
-  background-color: #ccc !important;
+.audio-button {
+  background: none;
+  border: none;
+  font-size: 1em;
+  cursor: pointer;
+  margin-left: 0.5em;
 }
