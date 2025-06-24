@@ -3,7 +3,7 @@ body {
   background-color: #eee; /* fallback if image fails */
 }
 
-.pf {
+.pc {
   background-image: url('stpeters.png');
   background-size: cover;
   background-position: center;
