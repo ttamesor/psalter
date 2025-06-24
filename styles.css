@@ -1,13 +1,6 @@
-#page-container {
-  background-image: url('stpeters.png');
+html {
+  background: url('stpeters.png') no-repeat center center fixed;
   background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
   background-color: #ccc;
 }
 
-html, body {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-}
