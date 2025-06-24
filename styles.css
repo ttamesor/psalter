@@ -3,10 +3,13 @@ body {
   background-color: #eee; /* fallback if image fails */
 }
 
-.pc {
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
   background-image: url('stpeters.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: transparent;
+  background-color: #ccc; /* fallback */
 }
